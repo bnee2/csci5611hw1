@@ -10,4 +10,4 @@ Lecture 3 / TTC Forces: [Video link](https://youtu.be/OGv3O9Hznf4)
 Lecture 4 / Tree Search: There's nothing to really demo on video here, so here's a picture of the output. See the code for the search algorithms and answers to questions.
 ![Search output](/Assets/dfsExample.png)
 
-Lecture 5 / Probabilistic Road Map: [Video link]()
+Lecture 5 / Probabilistic Road Map: [Video link](https://youtu.be/dm4rnSI5tRc)
