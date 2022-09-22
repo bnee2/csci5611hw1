@@ -1,7 +1,7 @@
 # CSCI 5611 Homework 1
 ### Brandon A. Nee - neexx036 - 5368892
 
-Lecture 1 / Moouse Following: [Video link](https://youtu.be/je60ev0SVY0)
+Lecture 1 / Mouse Following: [Video link](https://youtu.be/je60ev0SVY0)
 
 Lecture 2 / Particle Systems: [Video link](https://youtu.be/OWaDiqR-kLg)
 
